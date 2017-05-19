@@ -3,3 +3,5 @@ all issues must be saved here
 this git project is awsm
 
 we are working as a team in this project
+
+another new line added to this file
